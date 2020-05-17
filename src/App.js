@@ -1,7 +1,6 @@
 import React from 'react';
 import einsteinImage from "./einstein-aman.jpg" 
 import videoSample from "./videos/file_example_MP4_480_1_5MG.mp4"
-import './App.css';
 import './style.css';
 
 function App() {
